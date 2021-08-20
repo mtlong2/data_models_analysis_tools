@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 # client customer data - resampling - merging multiple data files
 # manipulating different datasets for neural networks
 # Power data in 15 min intervals, weather data in 30
